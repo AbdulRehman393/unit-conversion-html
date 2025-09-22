@@ -1,0 +1,17 @@
+body {
+    margin: 10px;
+    background-color: white;
+}
+
+#home {
+    background-color: rgb(203, 216, 228);
+    padding-bottom: 1cm;
+    margin: -1px;
+}
+
+header {
+    font-size: 30px;
+    color: rgba(57, 19, 110, 0.8);
+    float: left;
+    padding-left: 2cm;
+}
